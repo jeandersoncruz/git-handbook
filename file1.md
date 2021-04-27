@@ -1,1 +1,1 @@
-file 1 - feature-b
+file 1 - my feature
