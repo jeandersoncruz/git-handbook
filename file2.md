@@ -1,1 +1,1 @@
-file 2 - feature a
+file 2 - feature b
